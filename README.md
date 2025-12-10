@@ -7,3 +7,6 @@ I want to see if the typical value of a players position matches their actual im
 
 For example my hypothesis is Forwards are overvalued and Goalkeepers are undervalued. My expectation is results will have more losses when Goalkeepers are injured than Forwards.
 
+![Descriptive alt text](Create-injury-db.png)
+
+![Descriptive alt text](Load-injury-data.png)
