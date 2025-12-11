@@ -10,3 +10,7 @@ For example my hypothesis is Forwards are overvalued and Goalkeepers are underva
 ![Descriptive alt text](Create-injury-db.png)
 
 ![Descriptive alt text](Load-injury-data.png)
+
+
+![Descriptive alt text](PowerBI-measure.png)
+
